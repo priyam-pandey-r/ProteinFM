@@ -1,5 +1,5 @@
 # ProteinFM — Adaptive Multimodal Protein Representation Learning
-![ProteinFM Pipeline](/Users/priyam/MY_GIT/Protienfm/assets/proteinfm.pdf)
+![ProteinFM Pipeline](proteinfm.pdf)
 ## Overview
 
 ProteinFM is an ongoing research framework for **adaptive multimodal
